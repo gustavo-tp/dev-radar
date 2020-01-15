@@ -6,9 +6,11 @@ yarn add express
 yarn add nodemon -D
 yarn add mongoose
 yarn add axios
+yarn add cors
 
 // ----------- Frontend --------------
-
+yarn create react-app web || npx create-react-app web
+yarn add axios
 
 // ----------- Mobile --------------
 
