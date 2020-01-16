@@ -13,4 +13,12 @@ yarn create react-app web || npx create-react-app web
 yarn add axios
 
 // ----------- Mobile --------------
-
+yarn global add expo-cli || npm install -g expo-cli
+expo init mobile
+yarn add react-navigation
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context
+yarn add react-navigation-stack @react-native-community/masked-view@0.1.5
+expo install react-native-maps
+expo install expo-location
+expo install react-native-webview
+yarn add axios
