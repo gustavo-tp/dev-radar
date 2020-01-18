@@ -17,7 +17,7 @@ Application designed to find developers geographically close to you and who have
 ### Technologies used
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
+- [ReactJS](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
