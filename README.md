@@ -57,19 +57,19 @@ git clone git@github.com:gustavo-tp/dev-radar.git
 2. Run Backend
 ```
 cd dev-radar/backend
-yarn install
+yarn
 yarn dev
 ```
 3. Run WEB App
 ```
 cd ../frontend
-yarn install
+yarn
 yarn start
 ```
 4. Run Mobile App
 ```
 cd ../mobile
-yarn install
+yarn
 yarn start
 ```
 Then open the Expo app on your phone and scanned the QR code.
