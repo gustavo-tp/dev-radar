@@ -26,6 +26,10 @@
   <a href="#acknowledgments">Acknowledgments</a>
 </p>
 
+<p align="center">
+  <img alt="Preview" src="./preview.png" width="100%">
+</p>
+
 ## Description
 
 Application designed to find developers geographically close to you and who have the same interests.
