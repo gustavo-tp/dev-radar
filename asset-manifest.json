@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dev-radar/static/css/main.135adfce.chunk.css",
+    "main.js": "/dev-radar/static/js/main.e6780b51.chunk.js",
+    "main.js.map": "/dev-radar/static/js/main.e6780b51.chunk.js.map",
+    "runtime-main.js": "/dev-radar/static/js/runtime-main.4ea54224.js",
+    "runtime-main.js.map": "/dev-radar/static/js/runtime-main.4ea54224.js.map",
+    "static/js/2.733b4ed7.chunk.js": "/dev-radar/static/js/2.733b4ed7.chunk.js",
+    "static/js/2.733b4ed7.chunk.js.map": "/dev-radar/static/js/2.733b4ed7.chunk.js.map",
+    "index.html": "/dev-radar/index.html",
+    "precache-manifest.53d908ed2a82890cc8b0c2a56ad0ea71.js": "/dev-radar/precache-manifest.53d908ed2a82890cc8b0c2a56ad0ea71.js",
+    "service-worker.js": "/dev-radar/service-worker.js",
+    "static/css/main.135adfce.chunk.css.map": "/dev-radar/static/css/main.135adfce.chunk.css.map",
+    "static/js/2.733b4ed7.chunk.js.LICENSE": "/dev-radar/static/js/2.733b4ed7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ea54224.js",
+    "static/js/2.733b4ed7.chunk.js",
+    "static/css/main.135adfce.chunk.css",
+    "static/js/main.e6780b51.chunk.js"
+  ]
+}
