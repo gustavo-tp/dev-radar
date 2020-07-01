@@ -1,30 +1,35 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "DevRadar",
+    "slug": "dev-radar",
     "privacy": "public",
     "sdkVersion": "36.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#E5E6F0"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.webtools.devradar",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.webtools.devradar",
+      "versionCode": 1,
+      "config": {
+        "googleMaps": {
+          "apiKey": "your-googleMaps-api-key"
+        }
+      }
     }
   }
 }
